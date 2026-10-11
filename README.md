@@ -4,8 +4,12 @@ Download the latest APK from [Releases](https://github.com/GianCarlozxc/AiMovies
 
 AI Movies browses full-length AI films from the selected channels and includes a custom native player, quality selection, fullscreen pinch zoom, dark/light themes, and an optional privacy-enhanced playback fallback.
 
-Requires Android 8.0 or newer. Version 1.0 is a debug-signed test build matching the development app. Download `AiMovies-v1.0.apk` and allow your browser or file manager to install it. Existing installations using the same signing certificate can update in place.
+Requires Android 8.0 or newer. Version 1.1 is a debug-signed test build using the same certificate as 1.0. Download `AiMovies-v1.1.apk` for the first installation. Existing installations using the same signing certificate can update in place.
 
-Each release includes an APK, SHA-256 checksum, and third-party notices. Source code and Android Studio build instructions are in [AiMovies](https://github.com/GianCarlozxc/AiMovies) (repository access required).
+Version 1.1 checks for updates on Home and offers **Update** or **Update later**. You can still update through **Settings > Check for updates** after choosing Update later. Future updates download inside the app, verify the APK and open Android's installation confirmation. If requested, allow Movies to install apps in Android Settings. Install 1.1 once to enable this feature on a 1.0 installation.
+
+<img src="screenshots/home.png" width="230" alt="Home screen"> <img src="screenshots/player.png" width="230" alt="Native player"> <img src="screenshots/home-alt.png" width="230" alt="Movie catalog">
+
+Each release includes an APK, SHA-256 checksum, in-app update metadata (`update.json`), and third-party notices. Source code and Android Studio build instructions are in [AiMovies](https://github.com/GianCarlozxc/AiMovies) (repository access required).
 
 Playback depends on source availability and network limits; the privacy fallback does not guarantee unrestricted or ad-free playback.
