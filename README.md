@@ -12,6 +12,6 @@ Version 1.1 checks for updates on Home and offers **Update** or **Update later**
 
 <img src="screenshots/home.png" width="230" alt="Home screen"> <img src="screenshots/player.png" width="230" alt="Native player"> <img src="screenshots/home-alt.png" width="230" alt="Movie catalog">
 
-Each release includes an APK, SHA-256 checksum, in-app update metadata (`update.json`), and third-party notices. Source code and Android Studio build instructions are in [AiMovies](https://github.com/GianCarlozxc/AiMovies) (repository access required).
+Each release includes an APK, SHA-256 checksum, in-app update metadata (`update.json`), and third-party notices. Source code and Android Studio build instructions are in [AiMovies]
 
 Playback depends on source availability and network limits; the privacy fallback does not guarantee unrestricted or ad-free playback.
