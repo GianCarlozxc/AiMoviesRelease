@@ -4,7 +4,9 @@ Download the latest APK from [Releases](https://github.com/GianCarlozxc/AiMovies
 
 AI Movies browses full-length AI films from the selected channels and includes a custom native player, quality selection, fullscreen pinch zoom, dark/light themes, and an optional privacy-enhanced playback fallback.
 
-Requires Android 8.0 or newer. Version 1.3 is a debug-signed test build using the same certificate as previous versions. Download `AiMovies-v1.3.apk` for the first installation. Existing installations using the same signing certificate can update in place.
+Requires Android 8.0 or newer. Version 1.4 is a debug-signed test build using the same certificate as previous versions. Download `AiMovies-v1.4.apk` for the first installation. Existing installations using the same signing certificate can update in place.
+
+Version 1.4 adds genre chips below search: All, Action, Adventure, Fantasy, Sci-Fi, Romance, Drama, Horror, Comedy and Mythology. Tap a genre to browse, combine it with search, or filter Saved movies. Clear filters returns to the full catalog. Genres use title and description keywords; existing AI-only and full-length movie rules remain in effect. Tests were not run for this release at the user's request.
 
 Version 1.3 adds Settings to the floating footer, opens Settings as a full page, replaces the theme buttons with a sliding moon/sun toggle, and removes the duplicate header Settings button. The phone launcher now uses an adaptive icon with the same AI logo on a dark background; the in-app logo remains transparent. Android chooses the outer icon shape. The screenshots below show the previous catalog/player layout; the updated APK includes the new navigation and Settings page.
 
